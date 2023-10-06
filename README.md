@@ -9,7 +9,7 @@
 <br>
 - 👯 I'm open to collaborating with others and constantly learning. I believe in the power of teamwork and the opportunity it provides for mutual growth.
 <br>
-- 🥅 2024 Goals: Developing an app to be heard in the world 🌎
+- 🥅 2024 Goal: Developing an app to be heard in the world 🌎
 
 ###
 <div align="center">
